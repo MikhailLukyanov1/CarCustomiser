@@ -28,7 +28,7 @@ final class CarCustomiserTests: XCTestCase {
 
         //assert
 
-        XCTAssertEqual(car.displayStats(), "Make: Mazda\nModel: MX-5\nTop speed: 125\nAcceleration (0-60 in): 7.7\nHandling: 5")
+        XCTAssertEqual(car.displayStats(), "Make: Mazda\nModel: MX-5\nTop speed: 125\nAcceleration (0-60 in): 7.7s\nHandling: 5")
 
     }
 

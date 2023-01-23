@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C3E27F1297D918700080903 /* startercars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C3E27F0297D918700080903 /* startercars.swift */; };
 		6CAEE8002975D44000320259 /* CarCustomiserApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CAEE7FF2975D44000320259 /* CarCustomiserApp.swift */; };
 		6CAEE8022975D44000320259 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CAEE8012975D44000320259 /* ContentView.swift */; };
 		6CAEE8042975D44200320259 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CAEE8032975D44200320259 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C3E27F0297D918700080903 /* startercars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = startercars.swift; sourceTree = "<group>"; };
 		6CAEE7FC2975D44000320259 /* CarCustomiser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarCustomiser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CAEE7FF2975D44000320259 /* CarCustomiserApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarCustomiserApp.swift; sourceTree = "<group>"; };
 		6CAEE8012975D44000320259 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				6CAEE8032975D44200320259 /* Assets.xcassets */,
 				6CAEE8052975D44200320259 /* Preview Content */,
 				6CAEE8292975D6E500320259 /* car.swift */,
+				6C3E27F0297D918700080903 /* startercars.swift */,
 			);
 			path = CarCustomiser;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			files = (
 				6CAEE8022975D44000320259 /* ContentView.swift in Sources */,
 				6CAEE82A2975D6E500320259 /* car.swift in Sources */,
+				6C3E27F1297D918700080903 /* startercars.swift in Sources */,
 				6CAEE8002975D44000320259 /* CarCustomiserApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

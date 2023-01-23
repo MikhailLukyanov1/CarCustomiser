@@ -15,9 +15,8 @@ struct Car {
     var handling: Int
     
     func displayStats()-> String {
-        
         return """
-Make: \(self.make)\nModel: \(self.model)\nTop speed: \(self.topSpeed)\nAcceleration (0-60 in): \(self.acceleration)\nHandling: \(self.handling)
+Make: \(self.make)\nModel: \(self.model)\nTop speed: \(self.topSpeed)\nAcceleration (0-60 in): \(self.acceleration)s\nHandling: \(self.handling)
 """
 
     }
